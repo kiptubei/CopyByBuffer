@@ -1,0 +1,12 @@
+FILE *fileptr
+fopen(file_path)
+fclose(fileptr)
+fgetc(source)
+fgets(source)
+fputc(ch,to)
+fputs()
+putchar(ch)
+buffer_length=fread(buffer,sizeof(char),BUFFER_SIZE,from)
+fwrite(buffer,sizeof(char),buffer_length,to)
+fprintf
+feof
